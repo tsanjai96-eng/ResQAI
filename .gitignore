@@ -1,0 +1,27 @@
+# Python
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Local databases and runtime files
+*.db
+*.sqlite
+*.sqlite3
+
+# Environment files and local secrets
+.env
+.env.*
+!.env.example
+frontend/google.env
+frontend/src/VITE_GOOGLE_MAPS_API_KEY=your_real_googl.txt
+
+# Frontend build and dependency output
+frontend/node_modules/
+frontend/dist/
+
+# Editor and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

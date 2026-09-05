@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+requests
+python-multipart
+joblib
+scikit-learn
+numpy
+gTTS

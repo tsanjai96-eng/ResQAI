@@ -1,0 +1,9 @@
+rainfall,temperature,humidity,wind_speed,pressure,river_level,elevation,disaster
+250,27,92,20,1002,5.2,12,flood
+300,26,95,25,998,6.1,8,flood
+20,42,35,10,1010,1.0,50,heatwave
+10,44,30,8,1008,0.8,70,heatwave
+100,29,85,120,970,2.0,15,cyclone
+80,28,88,110,975,1.8,20,cyclone
+180,24,90,30,1000,2.5,300,landslide
+5,40,30,15,1015,0.5,100,drought
